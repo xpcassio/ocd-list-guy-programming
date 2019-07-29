@@ -13,3 +13,13 @@
 ## Check website
 
 [ ] https://sizzy.co/
+- verifica se a responsividade do site em varios dispositivos
+
+## Server
+[ ] https://www.brotandgames.com/ciao/
+- sisteminha completo que verifica o url e envia email caso esteja fora do ar
+
+## Images
+
+[ ] https://isometric.online/
+- ilustrações especificas para desenvolvimento e startup
