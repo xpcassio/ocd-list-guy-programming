@@ -1,4 +1,15 @@
 # back-front-end-programming
 
-[x] https://www.netlifycms.org/
-[x] https://www.netlify.com/
+
+## Blog or cms kind of things
+
+[ ] https://www.netlifycms.org/
+[ ] https://www.netlify.com/
+
+## Bootstrap alikes
+
+[ ] https://material-ui.com/
+
+## Check website
+
+[ ] https://sizzy.co/
