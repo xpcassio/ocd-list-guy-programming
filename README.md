@@ -23,3 +23,8 @@
 
 [ ] https://isometric.online/
 - ilustrações especificas para desenvolvimento e startup
+
+## Excel
+
+[ ] https://bossanova.uk/jexcel/v3/
+- Plugin jquery que mimifica um excel
