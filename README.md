@@ -28,3 +28,8 @@
 
 [ ] https://bossanova.uk/jexcel/v3/
 - Plugin jquery que mimifica um excel
+
+## Regex
+
+https://www.janmeppe.com/blog/regex-for-noobs/
+- Bem explicadinho!
