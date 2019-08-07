@@ -33,3 +33,7 @@
 
 https://www.janmeppe.com/blog/regex-for-noobs/
 - Bem explicadinho!
+
+## HTML
+
+https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/
