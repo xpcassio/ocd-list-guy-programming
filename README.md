@@ -43,3 +43,8 @@ https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/
 
 https://github.com/onderceylan/pwa-asset-generator
 - Gera os icones para todos os tipos de dispositivos
+
+## Learning
+
+https://marksheet.io
+- Aprender HTML & CSS
