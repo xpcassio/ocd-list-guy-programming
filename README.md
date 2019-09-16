@@ -48,3 +48,9 @@ https://github.com/onderceylan/pwa-asset-generator
 
 https://marksheet.io
 - Aprender HTML & CSS
+
+
+## Images
+
+https://github.com/JamieMason/ImageOptim-CLI
+- Otimizar imagens server-side
