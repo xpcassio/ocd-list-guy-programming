@@ -38,17 +38,20 @@ https://www.janmeppe.com/blog/regex-for-noobs/
 ## HTML
 
 https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/
-
-## Favicons - PWA
-
-https://github.com/onderceylan/pwa-asset-generator
-- Gera os icones para todos os tipos de dispositivos
-
-## Learning
+- Novos tipo de input
 
 https://marksheet.io
 - Aprender HTML & CSS
 
+## HTML - Favicon
+
+https://github.com/onderceylan/pwa-asset-generator
+- Gera os icones para todos os tipos de dispositivos
+
+## PWA
+
+https://ymedialabs.com/progressive-web-apps#05
+- Aprenda mais sobre PWA
 
 ## Images
 
