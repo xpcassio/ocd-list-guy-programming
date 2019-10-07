@@ -57,3 +57,7 @@ https://ymedialabs.com/progressive-web-apps#05
 
 https://github.com/JamieMason/ImageOptim-CLI
 - Otimizar imagens server-side
+
+## Sass
+
+https://css-tricks.com/introducing-sass-modules/
