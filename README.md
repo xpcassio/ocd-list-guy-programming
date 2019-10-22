@@ -3,31 +3,32 @@
 
 ## Blog or cms kind of things
 
-[ ] https://www.netlifycms.org/
-[ ] https://www.netlify.com/
+https://www.netlifycms.org/
+https://www.netlify.com/
 
 ## Bootstrap alikes
 
-[ ] https://material-ui.com/
+https://material-ui.com/
 https://www.avantui.com/
 
 ## Check website
 
-[ ] https://sizzy.co/
+https://sizzy.co/
 - verifica se a responsividade do site em varios dispositivos
 
 ## Server
-[ ] https://www.brotandgames.com/ciao/
+
+https://www.brotandgames.com/ciao/
 - sisteminha completo que verifica o url e envia email caso esteja fora do ar
 
 ## Images
 
-[ ] https://isometric.online/
+https://isometric.online/
 - ilustrações especificas para desenvolvimento e startup
 
 ## Excel
 
-[ ] https://bossanova.uk/jexcel/v3/
+https://bossanova.uk/jexcel/v3/
 - Plugin jquery que mimifica um excel
 
 ## Regex
@@ -61,3 +62,8 @@ https://github.com/JamieMason/ImageOptim-CLI
 ## Sass
 
 https://css-tricks.com/introducing-sass-modules/
+
+## Svg
+
+https://svgartista.net/
+- Colocar animação e modificar o svg
