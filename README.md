@@ -1,69 +1,27 @@
-# back-front-end-programming
+
+## Back-end / Front-end / Design / Web programming
+
+A carefully curated list of thing you might need or interesting stuff for your next project. This list is more web programming oriented.
+> **Note:** I'm also trying to tag things to easy find in case this list gets too long.
 
 
-## Blog or cms kind of things
+### Back-end
+|Link|Description|Tags|
+|--|--|--|
+||||
 
-https://www.netlifycms.org/
-https://www.netlify.com/
+### Front-end
+|Link|Description|Tags|
+|--|--|--|
+|[Flowy](https://github.com/alyssaxuu/Flowy)|The minimal javascript library to create flowcharts|`javascript` `charts`|
 
-## Bootstrap alikes
+### Design
+|Link|Description|Tags|
+|--|--|--|
+|[Material UI](https://material-ui.com/)|React components for faster and easier web development|`React` `Material design` `User interface`|
+|[Avant UI](https://www.avantui.com/)|Development toolkit based on Bootstrap Framework|`Bootstrap` `User interface` `Bootstrap-extension`|
 
-https://material-ui.com/
-https://www.avantui.com/
-
-## Check website
-
-https://sizzy.co/
-- verifica se a responsividade do site em varios dispositivos
-
-## Server
-
-https://www.brotandgames.com/ciao/
-- sisteminha completo que verifica o url e envia email caso esteja fora do ar
-
-## Images
-
-https://isometric.online/
-- ilustrações especificas para desenvolvimento e startup
-
-## Excel
-
-https://bossanova.uk/jexcel/v3/
-- Plugin jquery que mimifica um excel
-
-## Regex
-
-https://www.janmeppe.com/blog/regex-for-noobs/
-- Bem explicadinho!
-
-## HTML
-
-https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/
-- Novos tipo de input
-
-https://marksheet.io
-- Aprender HTML & CSS
-
-## HTML - Favicon
-
-https://github.com/onderceylan/pwa-asset-generator
-- Gera os icones para todos os tipos de dispositivos
-
-## PWA
-
-https://ymedialabs.com/progressive-web-apps#05
-- Aprenda mais sobre PWA
-
-## Images
-
-https://github.com/JamieMason/ImageOptim-CLI
-- Otimizar imagens server-side
-
-## Sass
-
-https://css-tricks.com/introducing-sass-modules/
-
-## Svg
-
-https://svgartista.net/
-- Colocar animação e modificar o svg
+### Web programming
+|Link|Description|Tags|
+|--|--|--|
+|[Sizzy](https://sizzy.co/)|Browse (and test) websites on different screen sizes and tecnologies (like mobile touch).|`App` `Responsive` `Freemium`|
