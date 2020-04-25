@@ -17,8 +17,9 @@ A carefully curated list of thing you might need or interesting stuff for your n
 ### Design
 | Link                                    | Description                                            | Tags                                               |
 | --------------------------------------- | ------------------------------------------------------ | -------------------------------------------------- |
-| [Material UI](https://material-ui.com/) | React components for faster and easier web development | `React` `Material design` `User interface`         |
-| [Avant UI](https://www.avantui.com/)    | Development toolkit based on Bootstrap Framework       | `Bootstrap` `User interface` `Bootstrap-extension` |
+| [Material UI](https://material-ui.com/)| React components for faster and easier web development | `React` `Material design` `User interface`         |
+| [Avant UI](https://www.avantui.com/)| Development toolkit based on Bootstrap Framework       | `Bootstrap` `User interface` `Bootstrap-extension` |
+| [Separators](https://wweb.dev/resources/css-separator-generator)| Genarate css separators | `Css` |
 
 ### Web programming
 | Link                           | Description                                                  | Tags                                                |
