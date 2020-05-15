@@ -15,11 +15,12 @@ A carefully curated list of thing you might need or interesting stuff for your n
 | [Flowy](https://github.com/alyssaxuu/Flowy) | The minimal JavaScript library to create flowcharts | `javascript` `charts` |
 
 ### Design
-| Link                                    | Description                                            | Tags                                               |
-| --------------------------------------- | ------------------------------------------------------ | -------------------------------------------------- |
-| [Material UI](https://material-ui.com/)| React components for faster and easier web development | `React` `Material design` `User interface`         |
-| [Avant UI](https://www.avantui.com/)| Development toolkit based on Bootstrap Framework       | `Bootstrap` `User interface` `Bootstrap-extension` |
-| [Separators](https://wweb.dev/resources/css-separator-generator)| Genarate css separators | `Css` |
+| Link                                            | Description                                                                             | Tags                                               |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [Material UI](https://material-ui.com/)         | React components for faster and easier web development                                  | `React` `Material design` `User interface`         |
+| [Avant UI](https://www.avantui.com/)            | Development toolkit based on Bootstrap Framework                                        | `Bootstrap` `User interface` `Bootstrap-extension` |
+| [Cerberus](https://tedgoas.github.io/Cerberus/) | A few simple, but solid patterns for responsive HTML emails. Even in Outlook and Gmail. | `Email`                                            |
+
 
 ### Web programming
 | Link                           | Description                                                  | Tags                                                |
