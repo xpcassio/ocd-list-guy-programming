@@ -13,6 +13,8 @@ A carefully curated list of thing you might need or interesting stuff for your n
 | Link                                        | Description                                         | Tags                  |
 | ------------------------------------------- | --------------------------------------------------- | --------------------- |
 | [Flowy](https://github.com/alyssaxuu/Flowy) | The minimal JavaScript library to create flowcharts | `javascript` `charts` |
+| [Ruveal](https://github.com/hakimel/reveal.js) | an open source HTML presentation framework. It enables anyone with a web browser to create fully featured and beautiful presentations for free. | `javascript` `presentation` |
+| [9Elements SEO](https://9elements.com/seo-cheat-sheet/) | SEO chart flow | `seo` |
 
 ### Design
 | Link                                            | Description                                                                             | Tags                                               |
@@ -21,6 +23,10 @@ A carefully curated list of thing you might need or interesting stuff for your n
 | [Avant UI](https://www.avantui.com/)            | Development toolkit based on Bootstrap Framework                                        | `Bootstrap` `User interface` `Bootstrap-extension` |
 | [Cerberus](https://tedgoas.github.io/Cerberus/) | A few simple, but solid patterns for responsive HTML emails. Even in Outlook and Gmail. | `Email`                                            |
 
+### Git
+| Link                                       | Description                                                  | Tags |
+| ------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [Runme](https://runme.io/?ref=producthunt) |Run your application from any public Git-repo with one click. | `Git`   |
 
 ### Web programming
 | Link                           | Description                                                  | Tags                                                |
