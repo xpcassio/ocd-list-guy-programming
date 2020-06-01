@@ -22,6 +22,8 @@ A carefully curated list of thing you might need or interesting stuff for your n
 | [Material UI](https://material-ui.com/)         | React components for faster and easier web development                                  | `React` `Material design` `User interface`         |
 | [Avant UI](https://www.avantui.com/)            | Development toolkit based on Bootstrap Framework                                        | `Bootstrap` `User interface` `Bootstrap-extension` |
 | [Cerberus](https://tedgoas.github.io/Cerberus/) | A few simple, but solid patterns for responsive HTML emails. Even in Outlook and Gmail. | `Email`                                            |
+| [Tailwind CSS](https://tailwindcss.com/) | A utility-first CSS framework for rapidly building custom designs. | `Tailwind` `User interface` |
+| [Tailblocks](https://github.com/mertJF/tailblocks) | Ready-to-use Tailwind CSS blocks. | `Tailwind-extension `User interface` |
 
 ### Git
 | Link                                       | Description                                                  | Tags |
