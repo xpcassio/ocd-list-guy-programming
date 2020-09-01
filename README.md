@@ -15,6 +15,12 @@ A carefully curated list of thing you might need or interesting stuff for your n
 | [Flowy](https://github.com/alyssaxuu/Flowy) | The minimal JavaScript library to create flowcharts | `javascript` `charts` |
 | [Ruveal](https://github.com/hakimel/reveal.js) | an open source HTML presentation framework. It enables anyone with a web browser to create fully featured and beautiful presentations for free. | `javascript` `presentation` |
 | [9Elements SEO](https://9elements.com/seo-cheat-sheet/) | SEO chart flow | `seo` |
+| [Umami](https://umami.is/) | Website analytics | `seo` `analytics` |
+
+### Css/Scss
+| Link | Description | Tags |
+| ---- | ----------- | ---- |
+| [Gradient Magic](https://www.gradientmagic.com/)     | A Free Gallery of Fantastic and Unique CSS Gradients | `css` |
 
 ### Design
 | Link                                            | Description                                                                             | Tags                                               |
